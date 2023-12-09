@@ -1,0 +1,5 @@
+@@include[src/abstract-factory/README.md](src/abstract-factory/README.md)
+@@include[src/adapter/README.md](src/adapter/README.md)
+@@include[src/bridge/README.md](src/bridge/README.md)
+@@include[src/builder/README.md](src/builder/README.md)
+@@include[src/chain-of-responsibility](src/chain-of-responsibility/README.md)
