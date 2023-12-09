@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Команда&quot;">
+    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Компоновщик&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <workItem from="1702055770963" duration="6935000" />
       <workItem from="1702094027512" duration="6390000" />
       <workItem from="1702102757356" duration="5944000" />
-      <workItem from="1702113395719" duration="1214000" />
+      <workItem from="1702113395719" duration="4997000" />
     </task>
     <task id="LOCAL-00001" summary="Добавляет файлы проекта">
       <option name="closed" value="true" />
@@ -122,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702107863436</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Добавляет описание паттерна &quot;Компоновщик&quot;">
+      <option name="closed" value="true" />
+      <created>1702114726892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702114726892</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
     <MESSAGE value="Добавляет описание паттерна &quot;Строитель&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Цепочка обязанностей&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Команда&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Команда&quot;" />
+    <MESSAGE value="Добавляет описание паттерна &quot;Компоновщик&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Компоновщик&quot;" />
   </component>
 </project>
