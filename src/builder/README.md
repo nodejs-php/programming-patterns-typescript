@@ -1,14 +1,19 @@
 # Паттерн "Строитель"
+
 ### Цель
+
 Нужно пошаговое построение объекта
 
 ### Реализация
+
 1. Имеется класс со свойствами и переменными и который должен быть построен в классе-строитель.
 2. Создается класс-строитель ``export class Builder``, включающий в себя объект класса который должен быть построен.
-При вызове методов класса-строителя происходит инициализация свойств строящегося объекта.
+   При вызове методов класса-строителя происходит инициализация свойств строящегося объекта.
+
 ````js
 #underConstruction: UnderConstruction
-function method(parameter: String):void {
-    this.#underConstruction.setParameter(parameter)
+
+function method(parameter: String): void {
+    this.#underConstruction.setParameter(parameter);
 }
 ````
