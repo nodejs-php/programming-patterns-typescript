@@ -8,3 +8,4 @@
 6. [Команда](src/command/README.md)
 7. [Декоратор](src/decorator/README.md)
 8. [Фасад](src/facade/README.md)
+9. [Фабричный метод](src/factory/README.md)
