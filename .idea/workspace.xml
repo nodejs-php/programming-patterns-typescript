@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Компоновщик&quot;">
+    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Декоратор&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facade/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/facade/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/aleksey/typescript-programming-patterns&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aleksey/prototypes-js&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,7 +55,10 @@
       <workItem from="1702055770963" duration="6935000" />
       <workItem from="1702094027512" duration="6390000" />
       <workItem from="1702102757356" duration="5944000" />
-      <workItem from="1702113395719" duration="4997000" />
+      <workItem from="1702113395719" duration="5568000" />
+      <workItem from="1702124082371" duration="899000" />
+      <workItem from="1702141723465" duration="599000" />
+      <workItem from="1702203185591" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="Добавляет файлы проекта">
       <option name="closed" value="true" />
@@ -128,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702114726892</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Добавляет описание паттерна &quot;Декоратор&quot;">
+      <option name="closed" value="true" />
+      <created>1702118570387</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702118570387</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +155,7 @@
     <MESSAGE value="Добавляет описание паттерна &quot;Цепочка обязанностей&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Команда&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Компоновщик&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Компоновщик&quot;" />
+    <MESSAGE value="Добавляет описание паттерна &quot;Декоратор&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Декоратор&quot;" />
   </component>
 </project>

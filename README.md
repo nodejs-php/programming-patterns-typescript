@@ -6,4 +6,5 @@
 4. [Строитель](src/builder/README.md)
 5. [Цепочка обязанностей](src/chain-of-responsibility/README.md)
 6. [Команда](src/command/README.md)
-7. [Компоновщик](src/composite/README.md)
+7. [Декоратор](src/decorator/README.md)
+8. [Фасад](src/facade/README.md)
