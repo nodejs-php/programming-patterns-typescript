@@ -10,3 +10,4 @@
 8. [Фасад](src/facade/README.md)
 9. [Фабричный метод](src/factory/README.md)
 10. [Легковес](src/flyweight/README.md)
+11. [Интерпретатор](src/interpreter/README.md)
