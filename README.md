@@ -9,3 +9,4 @@
 7. [Декоратор](src/decorator/README.md)
 8. [Фасад](src/facade/README.md)
 9. [Фабричный метод](src/factory/README.md)
+10. [Легковес](src/flyweight/README.md)
