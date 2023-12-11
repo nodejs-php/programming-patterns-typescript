@@ -13,3 +13,4 @@
 11. [Интерпретатор](src/interpreter/README.md)
 12. [Итератор](src/iterator/README.md)
 13. [Посредник](src/mediator/README.md)
+14. [Снимок](src/memento/README.md)
