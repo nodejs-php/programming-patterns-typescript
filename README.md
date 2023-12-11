@@ -11,3 +11,4 @@
 9. [Фабричный метод](src/factory/README.md)
 10. [Легковес](src/flyweight/README.md)
 11. [Интерпретатор](src/interpreter/README.md)
+12. [Итератор](src/iterator/README.md)
