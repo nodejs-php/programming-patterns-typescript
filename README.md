@@ -16,3 +16,4 @@
 14. [Снимок](src/memento/README.md)
 15. [Обозреватель](src/observer/README.md)
 16. [Прототип](src/prototype/README.md)
+17. [Прокси](src/proxy/README.md)
