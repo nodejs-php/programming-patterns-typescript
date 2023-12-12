@@ -20,3 +20,4 @@
 18. [Сервис](src/singleton/README.md)
 19. [Статус](src/state/README.md)
 20. [Стратегия](src/strategy/README.md)
+21. [Шаблонный метод](src/template-method/README.md)

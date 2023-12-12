@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Состояние&quot;">
+    <list default="true" id="9b8f8dc8-fc7c-4114-bb76-fc5cace963f6" name="Changes" comment="Добавляет описание паттерна &quot;Стратегия&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template-method/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/template-method/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1702290614204" duration="11291000" />
       <workItem from="1702314949680" duration="2975000" />
       <workItem from="1702362342996" duration="6303000" />
-      <workItem from="1702379987508" duration="529000" />
+      <workItem from="1702379987508" duration="2493000" />
     </task>
     <task id="LOCAL-00001" summary="Добавляет файлы проекта">
       <option name="closed" value="true" />
@@ -232,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702367134051</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Добавляет описание паттерна &quot;Стратегия&quot;">
+      <option name="closed" value="true" />
+      <created>1702380640531</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702380640531</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +269,7 @@
     <MESSAGE value="Добавляет описание паттерна &quot;Прокси&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Сервис&quot;" />
     <MESSAGE value="Добавляет описание паттерна &quot;Состояние&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Состояние&quot;" />
+    <MESSAGE value="Добавляет описание паттерна &quot;Стратегия&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавляет описание паттерна &quot;Стратегия&quot;" />
   </component>
 </project>
