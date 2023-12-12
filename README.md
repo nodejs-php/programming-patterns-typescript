@@ -21,3 +21,4 @@
 19. [Статус](src/state/README.md)
 20. [Стратегия](src/strategy/README.md)
 21. [Шаблонный метод](src/template-method/README.md)
+22. [Визитёр](src/visitor/README.md)
