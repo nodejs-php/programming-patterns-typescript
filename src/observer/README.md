@@ -7,10 +7,10 @@
 
 ### Реализация
 
-1. Создается интерфейс ``IObservable`` с методами для подписки``function subscribe(observer: IObserver): void``,
-   отписаться от подписки ``function unsubscribe(observer: IObserver): void``, какой-то метод, где имеется оповещения
-   обозревателя о событии ``someMethodWithNotify(...args: unknown[])``.
-2. Создается интерфейс ``IObserver`` с методом ``notify(...args: unknown[])``, который требуется вызвать оповещения о
-   событии из класса реализующего ``IObservable``
-3. Создается класс ``class Model``, который содержит приватный объект или объекты реализующий ``IObserver``, и при
-   возникновении необходимости оповещения в нем вызывается метод ``notify(...args: unknown[])`` класса ``IObserver`
+1. Создается интерфейс `IObservable` с методами для подписки`function subscribe(observer: IObserver): void`,
+   отписаться от подписки `function unsubscribe(observer: IObserver): void`, какой-то метод, где имеется оповещения
+   обозревателя о событии `someMethodWithNotify(...args: unknown[])`.
+2. Создается интерфейс `IObserver` с методом `notify(...args: unknown[])`, который требуется вызвать оповещения о
+   событии из класса реализующего `IObservable`
+3. Создается класс `class Model`, который содержит приватный объект или объекты реализующий `IObserver`, и при
+   возникновении необходимости оповещения в нем вызывается метод `notify(...args: unknown[])` класса `IObserver`

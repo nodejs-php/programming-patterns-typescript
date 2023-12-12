@@ -6,16 +6,16 @@
 
 ### Реализация
 
-1. Создается интерфейс ``interface IChainLink`` звена цепочки, в котором имеется метод устанавливающий
-   ссылку ``#successor``
-   на следующее звено цепочки ``function nextSuccessor(next: IDispenser): void`` и
-   метод ``function handle(params: [])``,
+1. Создается интерфейс `interface IChainLink` звена цепочки, в котором имеется метод устанавливающий
+   ссылку `#successor`
+   на следующее звено цепочки `function nextSuccessor(next: IDispenser): void` и
+   метод `function handle(params: [])`,
    запускающий выполнение основного обработчика звена цепочки. В конце обработки происходит вызов метода следующего
-   звена цепочки ``(this.#successor as IDispenser).handle(params)``
+   звена цепочки `(this.#successor as IDispenser).handle(params)`
 2. Создается большой общий объект цепочки, который содержит объекты-звенья. В нем происходит назначение
    последовательности
-   вызовов звеньев через вызов метода ``this.chainLink1.nextSuccessor(this.chainLink2)`` в объекте
-   звена ``this.chainLink1``
-   и как параметр передается 2-й звено ``this.chainLink2``.
+   вызовов звеньев через вызов метода `this.chainLink1.nextSuccessor(this.chainLink2)` в объекте
+   звена `this.chainLink1`
+   и как параметр передается 2-й звено `this.chainLink2`.
 3. Запуск цепочки вызовов происходит через вызов метода одного из звеньев, а передача вызова к другим звеньям
-   происходит через внутренние вызовы каждого из звеньев ``(this.#successor as IDispenser).handle(params)``
+   происходит через внутренние вызовы каждого из звеньев `(this.#successor as IDispenser).handle(params)`
