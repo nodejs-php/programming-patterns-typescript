@@ -17,4 +17,5 @@
 15. [Обозреватель](src/observer/README.md)
 16. [Прототип](src/prototype/README.md)
 17. [Прокси](src/proxy/README.md)
-17. [Сервис](src/singleton/README.md)
+18. [Сервис](src/singleton/README.md)
+19. [Состояние](src/state/README.md)

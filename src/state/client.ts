@@ -45,7 +45,7 @@ class StateContext implements IExampleState {
     }
 }
 
-class Started implements IExampleState {
+class Started  {
     // A ConcreteState Subclass
     request() {
         console.log(`I am now Started`)
